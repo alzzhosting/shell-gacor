@@ -1,4 +1,6 @@
-# 🎮 Shell Kontrol FPS & Lock FPS  
+<p align="center">
+  <font color="cyan">🔥 FPS Control 🔥</font>
+</p>
 
 <p align="center">
   <img src="https://files.catbox.moe/eidwv9.jpg" width="200" height="200" style="mask-image: url(circle.svg); -webkit-mask-image: url(circle.svg);">
@@ -26,6 +28,8 @@ Skrip ini memungkinkan kamu untuk **mengontrol FPS (Frame Per Second)** dan **me
 ## 🚀 Cara Install & Pakai  
 1. **Clone Repository:**  
    ```bash
-   git clone https://github.com/username/fps-control.git
-   cd fps-control
-   chmod +x fps.sh
+   git clone https://github.com/alzzhostinf/shell-gacor.git
+   cd shell-gacor
+   edit di acode
+   ```
+**© 2025 Kenz Market | Rwarr**
