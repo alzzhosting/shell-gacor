@@ -25,11 +25,7 @@ Skrip ini memungkinkan kamu untuk **mengontrol FPS (Frame Per Second)** dan **me
 
 ---
 
-## 🚀 Cara Install & Pakai  
-1. **Clone Repository:**  
-   ```bash
-   git clone https://github.com/alzzhostinf/shell-gacor.git
-   cd shell-gacor
-   edit di acode
-   ```
+## 🚀 Cara Pakai
+**DOWNLOAD FILE NYA DI ZIP**
+
 **© 2025 Kenz Market | Rwarr**
